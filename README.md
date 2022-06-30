@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meg
-- 👀 I’m interested in Python, AWS Cloud, IaC, Terraform, etc. 
-- 🌱 I’m currently learning Pyton
+- 👀 I’m interested in Python, AWS Cloud, IaC, Terraform, Docker etc. 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a terrafrom project
 - 📫 How to reach me megglomania@gmail.com
 
